@@ -12,9 +12,9 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>2A33646B7715FA164E94429D810A72819C7CE49F</string>
+				<string>7D24BD8522801FE5207B69E186363F9B646B133E</string>
 				<key>dateExpires</key>
-				<string>2021/8/7</string>
+				<string>2021/8/8</string>
 				<key>type</key>
 				<string>iOS Distribution</string>
 			</dict>
@@ -34,9 +34,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>5af9db36-eeb7-46c5-896b-08976a2fab92</string>
+				<string>42152585-fc1d-40cb-9c98-43f4a6416751</string>
 				<key>name</key>
-				<string>CCBVcss</string>
+				<string>TYJR</string>
 			</dict>
 			<key>team</key>
 			<dict>
