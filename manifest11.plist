@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/p6481089/tuiyijunren/blob/master/icon-57.png</string>
+					<string>https://github.com/p6481089/tuiyijunren/blob/master/icon57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/p6481089/tuiyijunren/blob/master/icon-512.png</string>
+					<string>https://github.com/p6481089/tuiyijunren/blob/master/icon512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.ccb.vcss</string>
 				<key>bundle-version</key>
-				<string>1.3.4</string>
+				<string>1.3.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
